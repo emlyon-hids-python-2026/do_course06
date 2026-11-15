@@ -3,14 +3,14 @@
     "jupyter.interactiveWindow.cellMarker.codeRegex": "^# COMMAND ----------|^# Databricks notebook source|^(#\\s*%%|#\\s*\\<codecell\\>|#\\s*In\\[\\d*?\\]|#\\s*In\\[ \\])",
     "jupyter.interactiveWindow.cellMarker.default": "# %%",
 
-    // --- Visual identity (purple) ---
+    // --- Visual identity (green) ---
     "workbench.colorCustomizations": {
-        "activityBar.background": "#5B3A9E",
+        "activityBar.background": "#2E7D32",
         "activityBar.foreground": "#ffffff",
         "activityBar.inactiveForeground": "#ffffff99",
-        "titleBar.activeBackground": "#5B3A9E",
+        "titleBar.activeBackground": "#2E7D32",
         "titleBar.activeForeground": "#ffffff",
-        "titleBar.inactiveBackground": "#5B3A9E",
+        "titleBar.inactiveBackground": "#2E7D32",
         "titleBar.inactiveForeground": "#ffffff99"
     },
 
